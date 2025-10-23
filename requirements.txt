@@ -1,0 +1,10 @@
+python-dotenv
+pydantic>=2
+langchain
+langgraph
+openai>=1.30
+tavily-python
+faiss-cpu
+pypdf
+tiktoken
+reportlab
